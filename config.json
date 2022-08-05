@@ -48,7 +48,7 @@
 
     "bot": {
         "feishu": {
-            "enabled": false,
+            "enabled": true,
             "secrets": "FEISHU_KEY",
             "key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
         },
@@ -76,7 +76,7 @@
             "key": "xxxxxxxxxx"
         },
         "mail": {
-            "enabled": true,
+            "enabled": false,
             "secrets": "MAIL_KEY",
             "address": "firmianay@163.com",
             "server": "smtp.163.com",
